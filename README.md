@@ -1,3 +1,3 @@
 # marilyn
 
-https://deepakgudi-pixel.github.io/marilyn/
+https://marilyn.vercel.app/
